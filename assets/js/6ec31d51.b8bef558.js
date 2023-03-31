@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkd_2023_czhiyuan_blog=self.webpackChunkd_2023_czhiyuan_blog||[]).push([[271],{3296:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/czhiyuan_blog/blog/tags/hello","allTagsPath":"/czhiyuan_blog/blog/tags","count":2}')}}]);
